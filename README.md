@@ -1,4 +1,4 @@
-# nokia-x2-imei-qcn-creator
+# Nokia X2 imei.qcn Creator
 Create dual sim supported Qualcomm's QCN file for restoring/replacing IMEI numbers for Nokia X2  
   
 HOW TO USE:  
